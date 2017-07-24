@@ -241,8 +241,7 @@ window.onload=function(){
 				left:"-2.65rem",
 				top:"3.4rem"
 			})
-			fla
-			g3=true;
+			flag3=true;
 		}
 	})
 	
